@@ -8,6 +8,10 @@
     Microserviço referente ao backend da Administração do Catálogo de Vídeos<br />
     Utilizando Clean Architecture, DDD, TDD e as boas práticas atuais de mercado
   </p>
+  <p>
+   OBS: Projeto clonado do repositório https://github.com/devfullcycle/FC3-admin-catalogo-de-videos-java para fins de estudo.<br />
+   Todo código e estudo foram feito na fullcylce https://fullcycle.com.br/
+  </p>
 </center>
 <br />
 
